@@ -1,0 +1,53 @@
+body {
+    background-color: rgb(245,245,245);
+}
+
+p,ul {
+     font-family: calibri;
+     font-size: 19px;
+}
+
+h1 {
+    font-family: Vivaldi;
+    font-size: 70px;
+    color: rgb(112,128,144);
+    text-decoration-line: underline;
+    margin: 55px;
+}
+
+h2 {
+    font-family: calibri;
+    font-size: 30px;
+    color: grey;
+    font-style: italic;
+}
+
+h3 {
+    font-family: Vivaldi;
+    color: rgb(112,128,144);
+    font-size: 40px;
+    font-style: bold;
+    text-decoration-line: underline;
+}
+
+.main_picture {
+    width:40%;
+    height:50%;
+    margin: 20px;
+}
+
+.hr {
+    position: relative;
+    top: 5px;
+    border: none;
+    height: 3px;
+    background: rgb(112,128,144);
+    margin: 20px;
+}
+
+img {
+    width:20%;
+    height:10%;
+    padding: 5px;
+    margin: 80px;
+}
